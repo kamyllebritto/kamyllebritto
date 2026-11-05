@@ -8,11 +8,8 @@
 
 ## 💫 About Me
 
-Hello! I am an **Information Systems** student at UFRPE (2nd semester) passionate about technology, with a strong focus on **Data Science, Databases,** and software development. 
+Hello! I am an **Information Systems** student at UFRPE (3nd semester) passionate about technology, with a strong focus on **Data Science, AI Development,** and software development. 
 
-Currently, I balance my academic studies with scientific research centered around spatial and relational data management.
-
-- 🏹 **Current Focus:** Advanced SQL, database architecture, and data analysis.
 - 🔬 **Research:** Volunteer Researcher at **GEOSENSIS** (Remote Sensing Research Group - UFRPE/UAST), working extensively on database development and organization.
 - 🎓 **Engagement:** Active member of the Information Systems Academic Directorate.
 - 🌍 **Languages:** Portuguese (Native) | English (Advanced) | Mandarin (Learning).
